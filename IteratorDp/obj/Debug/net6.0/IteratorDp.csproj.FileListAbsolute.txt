@@ -1,0 +1,15 @@
+C:\Users\memme\source\repos\IteratorDp\IteratorDp\obj\Debug\net6.0\IteratorDp.csproj.AssemblyReference.cache
+C:\Users\memme\source\repos\IteratorDp\IteratorDp\obj\Debug\net6.0\IteratorDp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\IteratorDp\IteratorDp\obj\Debug\net6.0\IteratorDp.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\IteratorDp\IteratorDp\obj\Debug\net6.0\IteratorDp.AssemblyInfo.cs
+C:\Users\memme\source\repos\IteratorDp\IteratorDp\obj\Debug\net6.0\IteratorDp.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\IteratorDp\IteratorDp\bin\Debug\net6.0\IteratorDp.exe
+C:\Users\memme\source\repos\IteratorDp\IteratorDp\bin\Debug\net6.0\IteratorDp.deps.json
+C:\Users\memme\source\repos\IteratorDp\IteratorDp\bin\Debug\net6.0\IteratorDp.runtimeconfig.json
+C:\Users\memme\source\repos\IteratorDp\IteratorDp\bin\Debug\net6.0\IteratorDp.dll
+C:\Users\memme\source\repos\IteratorDp\IteratorDp\bin\Debug\net6.0\IteratorDp.pdb
+C:\Users\memme\source\repos\IteratorDp\IteratorDp\obj\Debug\net6.0\IteratorDp.dll
+C:\Users\memme\source\repos\IteratorDp\IteratorDp\obj\Debug\net6.0\refint\IteratorDp.dll
+C:\Users\memme\source\repos\IteratorDp\IteratorDp\obj\Debug\net6.0\IteratorDp.pdb
+C:\Users\memme\source\repos\IteratorDp\IteratorDp\obj\Debug\net6.0\IteratorDp.genruntimeconfig.cache
+C:\Users\memme\source\repos\IteratorDp\IteratorDp\obj\Debug\net6.0\ref\IteratorDp.dll
